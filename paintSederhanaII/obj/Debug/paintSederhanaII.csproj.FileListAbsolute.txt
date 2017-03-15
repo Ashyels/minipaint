@@ -1,0 +1,21 @@
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\bin\Debug\paintSederhanaII.exe.config
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\bin\Debug\paintSederhanaII.exe
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\bin\Debug\paintSederhanaII.pdb
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.csprojResolveAssemblyReference.cache
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.Properties.Resources.resources
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.csproj.GenerateResource.Cache
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.exe
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.pdb
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161016\paintSederhanaII\paintSederhanaII\obj\Debug\paintSederhanaII.paintSederhana.resources
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\bin\Debug\paintSederhanaII.exe.config
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.exe
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.pdb
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.csprojResolveAssemblyReference.cache
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.paintSederhana.resources
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.Properties.Resources.resources
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.csproj.GenerateResource.Cache
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\bin\Debug\paintSederhanaII.exe
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20161030\141524011_IfanDhaniPrasojo\Mini Paint II\paintSederhanaII\bin\Debug\paintSederhanaII.pdb
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20170116\Mini Paint II\paintSederhanaII\bin\Debug\paintSederhanaII.exe.config
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20170116\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.exe
+D:\Mata Kuliah Tingkat II\Semester V\Pak Pri - Komputer Grafis\20170116\Mini Paint II\paintSederhanaII\obj\Debug\paintSederhanaII.pdb

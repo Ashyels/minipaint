@@ -1,2 +1,5 @@
-# minipaint-c-
-Mini Paint adalah suatu project yang merupakan implementasi dari mata kuliah Komputer Grafik, yang saya buat menggunakan bhs pemrograman c# pada visual studio.
+&#x1F4CC; MiniPaint
+===================
+- Type : small project
+- Tools : C#
+- Status : &#x1F494; (not active)
